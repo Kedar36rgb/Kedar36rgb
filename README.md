@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Kedar Pawar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=200&section=header&text=Kedar%20Pawar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=22" width="100%" alt="header" />
 
-### Data Analyst | SQL • Power BI • Python • ETL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Kedar+Pawar+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+ETL;I+turn+raw+data+into+decision-ready+dashboards;Currently+levelling+up+in+Snowflake+%26+Data+Engineering)](https://git.io/typing-svg)
 
 I transform raw data into decision-ready dashboards and actionable business insights. I am passionate about data storytelling, building efficient data pipelines, and solving complex business problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kedar-pawar-264a1929a)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:kedarpawar153@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Kedar36rgb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kedar-pawar-264a1929a)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:kedarpawar153@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kedar36rgb)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kedar36rgb&color=39d353&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -27,19 +29,22 @@ I transform raw data into decision-ready dashboards and actionable business insi
 ### 🧰 My Tech Stack
 
 **Languages & Querying:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 **BI & Visualization:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Data Engineering & Tools:**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -60,6 +65,29 @@ Here are some of my favorite data projects. Feel free to explore the code and da
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedar36rgb&show_icons=true&theme=radium&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kedar36rgb&show_icons=true&theme=radium&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar36rgb&layout=compact&theme=radium&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Kedar36rgb&theme=radical&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kedar36rgb/Kedar36rgb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kedar36rgb/Kedar36rgb/output/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Kedar36rgb/Kedar36rgb/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+*Thanks for stopping by! If you like my work, drop a ⭐ on a repo.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
